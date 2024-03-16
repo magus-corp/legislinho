@@ -1,0 +1,5 @@
+.venv
+wandb
+models
+trainings
+.ipynb_checkpoints/*
