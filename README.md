@@ -1,6 +1,6 @@
 # Legislinho - Open-Source Juridical Assistant
 
-LegisLinho é um projeto em desenvolvimento com o objetivo de auxiliar pessoas em questões jurídicas. Como está na primeira iteração, ainda há melhorias a serem feitas, mas estamos abertos a sugestões e feedbacks.
+Legislinho é um projeto em desenvolvimento com o objetivo de auxiliar pessoas em questões jurídicas. Como está na primeira iteração, ainda há melhorias a serem feitas, mas estamos abertos a sugestões e feedbacks.
 
 ## O que é Legislinho?
 
